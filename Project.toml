@@ -1,0 +1,13 @@
+name = "LazyGraphs"
+uuid = "a13d0f4e-5118-4f43-b0ba-3d2c40d30a9c"
+authors = ["Cédric Simal", "University of Namur"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
